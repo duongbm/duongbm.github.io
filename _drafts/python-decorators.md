@@ -1,9 +1,9 @@
 ---
-title: Decorator trong python
+title: Function trong python
 ---
 
 ## Cơ bản
-1. Function trong python được hiểu là `first-class objects`. Có thể hiểu nôm na function trong python là 1 instance của object function. Object này được: 
+1. Function trong python được hiểu là `first-class objects`. Có thể hiểu nôm na function là 1 instance của object function. Object này được: 
     ```
     - tạo tại thời điểm runtime
     - có thể gán cho 1 variable
