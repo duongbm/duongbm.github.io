@@ -1,7 +1,6 @@
 ---
 title: Function trong python
 date: 2021-11-13 22:00:00 +0700
-permalink: /:title
 ---
 
 ## Function là objects
